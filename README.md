@@ -54,6 +54,8 @@
     group by 1
     order by 2 desc;
     ```
+    
+    While there are no users active in the past 6 months, the brand with the highest spend of all time is `Cracker Barrel Cheese`.
 
 
   ## Data Quality
