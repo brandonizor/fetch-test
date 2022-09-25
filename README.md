@@ -35,6 +35,8 @@
   - brands: contains brand-level information
   - rewardsProductPartners: contents not clear, but it's referenced
 
+![diagram](./diagram.png)
+
 
   ## Stakeholder Question
 
